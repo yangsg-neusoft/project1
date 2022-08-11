@@ -5,7 +5,8 @@ import java.math.RoundingMode;
 
 public class Test1 {
 	
-	public static final int scale = 5;
+	public static final int scale = 7;
+	public static final int demo = 0;
 
 	public static void main(String[] args) {
 		double a = 3.14;
